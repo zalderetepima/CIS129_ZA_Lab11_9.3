@@ -4,7 +4,6 @@
 # Program collects student's first name, last name, and 3 exam grades based on user input. Format per 9.3 csv example. 
 # Ensure grades are between 0-100. Can be adjusted as needed. 
 
-
 import csv
 
 # Open the file 'grades.csv' in write mode
